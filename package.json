@@ -1,0 +1,13 @@
+{
+    "name": "com.unity.sample.teva.run.package",
+    "displayName": "teva-run",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "Use this as component or example to create your own packages",
+
+    "author" :{
+        "name": "sheetanshu",
+        "email": "sheetanshusrivastava3@gmail.com",
+        "url": ""
+    }
+}
